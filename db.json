@@ -1,0 +1,126 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Women Graphic Print Crew Neck Pure Cotton White T-Shirt",
+      "price": 600,
+      "image": "https://rukminim1.flixcart.com/image/612/612/kkr72q80/shirt/f/p/y/xs-13205276-all-about-you-original-imagyyynfjhfgcak.jpeg?q=70"
+    },
+    {
+      "id": 2,
+      "name": "Women Graphic Print Crew Neck Pure Cotton White T-Shirt",
+      "price": 600,
+      "image": "https://rukminim1.flixcart.com/image/612/612/kkr72q80/shirt/f/p/y/xs-13205276-all-about-you-original-imagyyynfjhfgcak.jpeg?q=70"
+    },
+    {
+      "id": 3,
+      "name": "Women Graphic Print Crew Neck Pure Cotton White T-Shirt",
+      "price": 600,
+      "image": "https://rukminim1.flixcart.com/image/612/612/kkr72q80/shirt/f/p/y/xs-13205276-all-about-you-original-imagyyynfjhfgcak.jpeg?q=70"
+    },
+    {
+      "id": 4,
+      "name": "Women Graphic Print Crew Neck Pure Cotton White T-Shirt",
+      "price": 600,
+      "image": "https://rukminim1.flixcart.com/image/612/612/kkr72q80/shirt/f/p/y/xs-13205276-all-about-you-original-imagyyynfjhfgcak.jpeg?q=70"
+    },
+    {
+      "id": 5,
+      "name": "Women Graphic Print Crew Neck Pure Cotton White T-Shirt",
+      "price": 600,
+      "image": "https://rukminim1.flixcart.com/image/612/612/kkr72q80/shirt/f/p/y/xs-13205276-all-about-you-original-imagyyynfjhfgcak.jpeg?q=70"
+    },
+    {
+      "id": 11,
+      "title": "perfume Oil",
+      "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+      "price": 13,
+      "discountPercentage": 8.4,
+      "rating": 4.26,
+      "stock": 65,
+      "brand": "Impression of Acqua Di Gio",
+      "category": "fragrances",
+      "thumbnail": "https://i.dummyjson.com/data/products/11/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/11/1.jpg",
+        "https://i.dummyjson.com/data/products/11/2.jpg",
+        "https://i.dummyjson.com/data/products/11/3.jpg",
+        "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Microsoft Surface Laptop 4",
+      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+      "price": 1499,
+      "discountPercentage": 10.23,
+      "rating": 4.43,
+      "stock": 68,
+      "brand": "Microsoft Surface",
+      "category": "laptops",
+      "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/8/1.jpg",
+        "https://i.dummyjson.com/data/products/8/2.jpg",
+        "https://i.dummyjson.com/data/products/8/3.jpg",
+        "https://i.dummyjson.com/data/products/8/4.jpg",
+        "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Key Holder",
+      "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
+      "price": 30,
+      "discountPercentage": 2.92,
+      "rating": 4.92,
+      "stock": 54,
+      "brand": "Golden",
+      "category": "home-decoration",
+      "thumbnail": "https://i.dummyjson.com/data/products/30/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/30/1.jpg",
+        "https://i.dummyjson.com/data/products/30/2.jpg",
+        "https://i.dummyjson.com/data/products/30/3.jpg",
+        "https://i.dummyjson.com/data/products/30/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Samsung Galaxy Book",
+      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "price": 1499,
+      "discountPercentage": 4.15,
+      "rating": 4.25,
+      "stock": 50,
+      "brand": "Samsung",
+      "category": "laptops",
+      "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/7/1.jpg",
+        "https://i.dummyjson.com/data/products/7/2.jpg",
+        "https://i.dummyjson.com/data/products/7/3.jpg",
+        "https://i.dummyjson.com/data/products/7/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Eau De Perfume Spray",
+      "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+      "price": 30,
+      "discountPercentage": 10.99,
+      "rating": 4.7,
+      "stock": 105,
+      "brand": "Lord - Al-Rehab",
+      "category": "fragrances",
+      "thumbnail": "https://i.dummyjson.com/data/products/15/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/15/1.jpg",
+        "https://i.dummyjson.com/data/products/15/2.jpg",
+        "https://i.dummyjson.com/data/products/15/3.jpg",
+        "https://i.dummyjson.com/data/products/15/4.jpg",
+        "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
+      ]
+    }
+  ]
+}
